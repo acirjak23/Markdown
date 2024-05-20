@@ -1,7 +1,7 @@
 <a name="top"></a>
 
 <h1 align="center">
-:black_circle: Markdown šalabahter :black_circle:
+:large_blue_circle: Markdown šalabahter :large_blue_circle:
 </h1>
 
 <br/>
