@@ -1,7 +1,7 @@
 <a name="top"></a>
 
 <h1 align="center">
-:large_blue_circle: Markdown šalabahter :large_blue_circle:
+🔵 Markdown šalabahter 🔵
 </h1>
 
 <br/>
